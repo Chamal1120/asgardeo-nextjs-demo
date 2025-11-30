@@ -1,5 +1,8 @@
 # WSO2 Asgardeo Authentication Template
-This repo contains the source code for the demo available at [here](https://youtu.be/M-jDQy9631A).
+This repo contains the source code for a template to get started quickly with Next.js + Asgardeo.
+
+## Video Demo (Click to view on YouTube)
+[![demo-Asgardeo-with-next-js](https://img.youtube.com/vi/M-jDQy9631A/maxresdefault.jpg)](https://www.youtube.com/watch?v=M-jDQy9631A)
 
 ## Prerequisites
 1. Node.js 22 or later
